@@ -82,3 +82,5 @@ The combination of **Abacus TOR** and the **Abacus login** process is your gatew
 
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/resources/final.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/resources/terminal.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+
+Update: Link is now functioning and accessible
